@@ -1,6 +1,6 @@
 MyToken Smart Contract
 
-Overvie
+Overview
 
 The MyToken smart contract is a simple implementation of an ERC20-like token on the Ethereum blockchain. It allows the creation, management, and burning of tokens. This contract includes essential functions such as minting new tokens to a specified address and burning tokens from a specified address. Additionally, it keeps track of token balances and the total supply of the tokens.
 
